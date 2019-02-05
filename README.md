@@ -3,4 +3,4 @@ Colour Clock Javascript
 ========================
 
 
-Preview [www.falbaponce.es/ejemplos/reloj/colourClock//](http://falbaponce.es/ejemplos/reloj/colourClock/)
+Preview [http://kiviev.github.io/colourClock/](http://kiviev.github.io/colourClock/)
